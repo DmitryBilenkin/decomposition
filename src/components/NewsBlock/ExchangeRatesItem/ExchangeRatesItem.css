@@ -1,0 +1,12 @@
+.rate-item-container{
+  display: flex;
+  margin-right: 20px;
+}
+
+.rate-item {
+    margin-right: 10px;
+}
+
+.change{
+    color: rgb(164, 164, 164);
+}

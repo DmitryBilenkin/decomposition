@@ -1,0 +1,17 @@
+.widget-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+
+    width: 300px;
+    min-height: 200px;
+
+    border: 1px solid black;
+    
+}
+
+.widget-title{
+    color: rgb(86, 86, 228);
+    font-size: 18px;
+    font-weight: bold;
+}

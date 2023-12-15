@@ -1,0 +1,21 @@
+.form-search{
+    position: relative;
+    display: flex;
+    height: 40px;
+}
+
+.input-search{
+    width: 100%;
+    border: 3px solid rgb(247, 209, 18);
+}
+
+.btn-search{
+    background-color: rgb(247, 209, 18);
+    border: none;
+}
+
+.yaLogo{
+    position: absolute;
+    top: -15px;
+    left: -140px;
+}
